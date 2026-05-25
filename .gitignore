@@ -1,0 +1,105 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio user files
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.vsp
+*.vspx
+*.sap
+
+## Visual Studio cache and generated files
+*.VC.db
+*.VC.VC.opendb
+*.cache
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+## .NET generated files
+project.lock.json
+project.assets.json
+artifacts/
+TestResults/
+coverage/
+coverage.xml
+coverage.json
+*.coverage
+*.coveragexml
+*.trx
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+packages.lock.json
+
+## Publish output
+publish/
+Publish/
+app.publish/
+*.Publish.xml
+*.pubxml.user
+
+## ASP.NET / local configuration
+appsettings.Local.json
+appsettings.*.local.json
+secrets.json
+*.db
+*.db-shm
+*.db-wal
+
+## Environment files
+.env
+.env.*
+!.env.example
+
+## IDEs and editors
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
+
+## OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
